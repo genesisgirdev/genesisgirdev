@@ -1,3 +1,4 @@
+# SOME SELF TAUGHT PROGRAMMER WITH LOTS OF TIME
 ![pnghut_portal-fan-art-character-deviantart](https://github.com/genesisgirdev/genesisgirdev/assets/141241285/e2c9bb91-ae84-417d-a56d-63e6286d8c88)
 
 <img src="https://myreadme.vercel.app/api/embed/genesisgirdev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
