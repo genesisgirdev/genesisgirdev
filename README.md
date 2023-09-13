@@ -1,5 +1,5 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤＧＥＮＥＳＩＳＧＩＲㅤㅤＢＩＯＧＲＡＰＨＹ
-![pnghut_portal-fan-art-character-deviantart](https://github.com/genesisgirdev/genesisgirdev/assets/141241285/e2c9bb91-ae84-417d-a56d-63e6286d8c88)
+![5837262217_e47d8cba85_o](https://github.com/genesisgirdev/genesisgirdev/assets/141241285/d01af7b3-5d18-4a4d-b705-7a865f2ff5c4)
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤS Y N O P S I S
 
