@@ -1,5 +1,5 @@
 ＧＥＮＥＳＩＳＧＩＲㅤㅤＢＩＯＧＲＡＰＨＹ
-![5837262217_e47d8cba85_o](https://github.com/genesisgirdev/genesisgirdev/assets/141241285/d01af7b3-5d18-4a4d-b705-7a865f2ff5c4)
+![PngItem_5216169](https://github.com/genesisgirdev/genesisgirdev/assets/141241285/18fd86cc-e621-4f25-9a07-6753309c8c7a)
 
 S Y N O P S I S
 
