@@ -3,7 +3,7 @@
 
 ＧＥＮＥＳＩＳＧＩＲㅤㅤＢＩＯＧＲＡＰＨＹ 
 
-Hiya! I'm GenesisGir and this is my official Github page where you can find all types of neat projects, Code, Lessons, My portfolio works and much more, I'm a self-taught programmer that has learned every skill I know from the web and online documentation. I'm currently in the process of going to school to later on in life enter a IT University that will show me more than I myself can teach and obtain a Bachelor degree in computer science. I have a ambitious passion for software developments and IT and strive to learn as much as I can as the days progress, I am constantly innovating to enhance my skills in programming with strict programming diets and logically am stable to create programs with precise formatting and data structures. I'm mainly Python based at the moment but wish to learn as many languages as I can in the near future, I have a fascination with machine learning technologies in Tensor Flow, Keras, Pandas and much more! I'm just a programmer that loves to code overall and as far as collaborations you can reach me at my inquiry email on my github page. I also love mathematics, qauntum physics, astronomy , bio-engineering, propulsion systems and anything that does with things in a logic sense. I am precise to the key in my code and show as much organization and professionalism into my craft.
+somewhere in a laboratory 
 
 <img src="https://myreadme.vercel.app/api/embed/genesisgirdev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
