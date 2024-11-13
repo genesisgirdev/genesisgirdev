@@ -3,8 +3,7 @@
 
 ＧＥＮＥＳＩＳＧＩＲㅤㅤＢＩＯＧＲＡＰＨＹ 
 
-somewhere in a laboratory 
-
+Self-Taught Programmer
 <img src="https://myreadme.vercel.app/api/embed/genesisgirdev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 # 💻 IDE
