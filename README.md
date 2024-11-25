@@ -3,7 +3,7 @@
 
 ＧＥＮＥＳＩＳＧＩＲㅤㅤＢＩＯＧＲＡＰＨＹ 
 
-Self-Taught Programmer
+underdog, slum dog programmer, somewhere in thailand
 
 
 # 💻 IDE
